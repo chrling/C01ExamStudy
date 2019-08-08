@@ -9,12 +9,7 @@ public class ColorPoint {
     this.c = c;
   }
   
-  public Boolean equals(ColorPoint cp) {
+  public boolean equals(ColorPoint cp) {
     return this.p.equals(cp.p) && this.c.equals(cp.c);
-  }
-  
-  // implement this only if we want point and color point to be comparable
-  public Boolean equals(Point p) {
-    return this.p.equals(p);
   }
 }

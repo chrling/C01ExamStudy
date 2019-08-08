@@ -9,13 +9,7 @@ public class Point {
     this.y = y;
   }
   
-  public Boolean equals(Point p) {
+  public boolean equals(Point p) {
     return this.x == p.x && this.y == p.y;
-  }
-  
-  // if we want to make ColorPoint comparable to Point, we have to overload
-  // equals here
-  public Boolean equals(ColorPoint cp) {
-    return cp.equals(this);
   }
 }

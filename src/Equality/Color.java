@@ -7,7 +7,7 @@ public class Color {
     this.color = color;
   }
   
-  public Boolean equals(Color c) {
+  public boolean equals(Color c) {
     return this.color.equals(c.color);
   }
 }
