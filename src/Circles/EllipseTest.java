@@ -9,5 +9,6 @@ public class EllipseTest {
     System.out.println("Area of c = " + c.area());
     System.out.println("Area of e1 = " + e1.area());
     System.out.println("Area of e2 = " + e2.area());
+    
   }
 }
