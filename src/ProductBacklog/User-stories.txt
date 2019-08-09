@@ -1,0 +1,9 @@
+- John would like to be able to reserve a car he likes in advances such that he
+  can pick it up and drive away as soon as he arrives at a new city
+- John would like to sign up to the unlimited kilometers plan since he travels
+  often so that he can save on rental cost
+- John would like to be sent the total cost of the rental when the car is
+  returned so that he can send the bill to his employer BestBuy and have them
+  reimburse the cost
+- John would like to be able to cancel his reservation so that when his plans 
+  change he does not have to pay for the rental of a car he will not use

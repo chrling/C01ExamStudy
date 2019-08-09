@@ -1,0 +1,20 @@
+John is a 32 year old sales manager working for BestBuy. John often have to
+travel across the country for his work in meeting with clients. Upon arriving in
+a new city, John often looks for a car rental company to rent a car so he can 
+drive himself around the city.
+
+Motivations & Anxieties
+- John loves being able to travel between cities and visiting new places
+- He likes to drive a new car every time he arrives at a new city
+- He is anxious of the legal process that is involved in renting a car
+
+Immediate Goal
+- John needs to rent a car as soon as he arrives at a new location
+- He needs the rental process to be fast and efficient so that he does not
+  waste time that he could use for traveling and sight-seeing
+  
+User Goal
+- John wants to impress the people around him by driving a new car everytime
+
+Experience Goal
+- John wants to drive a new car everytime he visits a new location
