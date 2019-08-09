@@ -53,4 +53,18 @@ public class VoteMachine implements Iterable<Integer>{
     }
     
   }
+  
+  public static void main(String[] args) {
+    VoteMachine vm = new VoteMachine(6);
+    vm.addNumberOfVoteForIndex(0, 0);
+    vm.addNumberOfVoteForIndex(1, 2);
+    vm.addNumberOfVoteForIndex(2, 1);
+    vm.addNumberOfVoteForIndex(3, 0);
+    vm.addNumberOfVoteForIndex(4, 1);
+    vm.addNumberOfVoteForIndex(5, 0);
+    
+    for (Integer x: vm) {
+      System.out.println(x);
+    }
+  }
 }
